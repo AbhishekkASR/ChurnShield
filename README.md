@@ -167,5 +167,8 @@ Raw CSV
 
 ## 📄 License
 
-This project is released for internal business and educational use.  
-© 2024 ChurnShield. All rights reserved.
+This project was developed as part of an internship and is shared on GitHub for portfolio and educational purposes.
+
+The project and its source code are subject to the applicable internship/organization policies regarding ownership, confidentiality, and reuse.
+
+© 2026 Abhishek Singh.
