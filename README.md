@@ -18,6 +18,11 @@ ChurnShield is an AI-powered Business Intelligence tool built for customer succe
 
 ---
 
+## 🌐 Live Demo
+
+**Try the deployed application:**  
+https://churnshieldbharatcares.streamlit.app/
+
 ## 🔴 Problem Statement
 
 Customer churn is one of the most expensive, yet preventable, revenue leaks in subscription businesses. The average telecom provider loses **15–25 % of its subscriber base annually**, and acquiring a new customer costs **5–7×** more than retaining an existing one.
